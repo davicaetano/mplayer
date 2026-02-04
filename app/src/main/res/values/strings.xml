@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MPlayer</string>
+
+    <!-- Player control content descriptions (a11y) -->
+    <string name="cd_repeat_track">Repeat track</string>
+    <string name="cd_previous_track">Previous track</string>
+    <string name="cd_next_track">Next track</string>
+    <string name="cd_play_playback">Play playback</string>
+    <string name="cd_pause_playback">Pause playback</string>
+    <string name="cd_add_to_favorites">Add to favorites</string>
+    <string name="cd_remove_from_favorites">Remove from favorites</string>
+    <string name="cd_seek_bar">Seek to position in track. Current: %1$s of %2$s</string>
+</resources>
